@@ -9,6 +9,7 @@
             "Rendang",
             "Beef"
         ],
+        "food_img": "https://storage.googleapis.com/capstone-nutripal-beta/api-beta/image/Lontong%20Sayur.jpeg"
         "food_url": "https:\/\/www.fatsecret.com\/calories-nutrition\/generic\/beef-rendang",
         "servings": {
             "serving": [
