@@ -9,7 +9,7 @@
             "Rendang",
             "Beef"
         ],
-        "food_img": "https://storage.googleapis.com/capstone-nutripal-beta/api-beta/image/Lontong%20Sayur.jpeg",
+        "food_img": "https://storage.googleapis.com/nutripall/foodsimg/Beef%20Rendang.jpg",
         "food_url": "https://www.fatsecret.com/calories-nutrition/generic/beef-rendang",
         "servings": {
             "serving": [
@@ -91,7 +91,7 @@
             "Noodles",
             "Instant"
         ],
-        "food_img": "https://storage.googleapis.com/capstone-nutripal-beta/api-beta/image/Lontong%20Sayur.jpeg",
+        "food_img": "https://storage.googleapis.com/nutripall/foodsimg/Indomie%20Goreng.png",
         "food_url": "https://www.fatsecret.com/calories-nutrition/indomie/mie-goreng-instant-noodles",
         "servings": {
             "serving": [
@@ -125,7 +125,7 @@
             "Noodles",
             "Instant"
         ],
-        "food_img": "https://storage.googleapis.com/capstone-nutripal-beta/api-beta/image/Lontong%20Sayur.jpeg",
+        "food_img": "https://storage.googleapis.com/nutripall/foodsimg/Indomie%20Goreng.png",
         "food_url": "https://www.fatsecret.com/calories-nutrition/indomie/rasa-ayam-bawang",
         "servings": {
             "serving": [
@@ -158,7 +158,7 @@
             "Fried Noodles",
             "Soto Flavored"
         ],
-        "food_img": "https://storage.googleapis.com/capstone-nutripal-beta/api-beta/image/Lontong%20Sayur.jpeg",
+        "food_img": "https://storage.googleapis.com/nutripall/foodsimg/Indomie%20Rasa%20Soto.jpg",
         "food_url": "https://www.fatsecret.com/calories-nutrition/indomie/mie-goreng-rasa-soto",
         "servings": {
             "serving": [
@@ -191,7 +191,7 @@
             "Noodles",
             "Soup"
         ],
-        "food_img": "https://storage.googleapis.com/capstone-nutripal-beta/api-beta/image/Lontong%20Sayur.jpeg",
+        "food_img": "https://storage.googleapis.com/nutripall/foodsimg/Mie%20Ayam.jpg",
         "food_url": "https://www.fatsecret.com/calories-nutrition/generic/noodles-mie-ayam",
         "servings": {
             "serving": [
@@ -238,7 +238,7 @@
             "Chicken",
             "Poultry"
         ],
-        "food_img": "https://storage.googleapis.com/capstone-nutripal-beta/api-beta/image/Lontong%20Sayur.jpeg",
+        "food_img": "https://storage.googleapis.com/nutripall/foodsimg/KFC%20Fried%20Chicken%20Breast.jpeg",
         "food_url": "https://www.fatsecret.com/calories-nutrition/kfc/fried-chicken-breast",
         "servings": {
             "serving": [
@@ -277,7 +277,7 @@
             "Chicken",
             "Poultry"
         ],
-        "food_img": "https://storage.googleapis.com/capstone-nutripal-beta/api-beta/image/Lontong%20Sayur.jpeg",
+        "food_img": "https://storage.googleapis.com/nutripall/foodsimg/KFC%20Original%20Recipe%20Chicken%20Leg.jpg",
         "food_url": "https://www.fatsecret.com/calories-nutrition/kfc/original-recipe-chicken-leg",
         "servings": {
             "serving": [
@@ -315,7 +315,7 @@
             "Chicken",
             "Poultry"
         ],
-        "food_img": "https://storage.googleapis.com/capstone-nutripal-beta/api-beta/image/Lontong%20Sayur.jpeg",
+        "food_img": "https://storage.googleapis.com/nutripall/foodsimg/KFC%20Original%20Recipe%20Chicken%20Wing.jpg",
         "food_url": "https://www.fatsecret.com/calories-nutrition/kfc/original-recipe-chicken-wing",
         "servings": {
             "serving": [
@@ -350,7 +350,7 @@
             "Chicken",
             "Fast Food"
         ],
-        "food_img": "https://storage.googleapis.com/capstone-nutripal-beta/api-beta/image/Lontong%20Sayur.jpeg",
+        "food_img": "https://storage.googleapis.com/nutripall/foodsimg/KFC%20Spicy%20Chicken%20Sandwich.jpg",
         "food_url": "https://www.fatsecret.com/calories-nutrition/kfc/spicy-chicken-sandwich",
         "servings": {
             "serving": [
@@ -385,7 +385,7 @@
             "Chicken",
             "Fast Food"
         ],
-        "food_img": "https://storage.googleapis.com/capstone-nutripal-beta/api-beta/image/Lontong%20Sayur.jpeg",
+        "food_img": "https://storage.googleapis.com/nutripall/foodsimg/KFC%20Classic%20Chicken%20Sandwich.jpg",
         "food_url": "https://www.fatsecret.com/calories-nutrition/kfc/classic-chicken-sandwich",
         "servings": {
             "serving": [
@@ -417,7 +417,7 @@
             "Chicken",
             "Poultry"
         ],
-        "food_img": "https://storage.googleapis.com/capstone-nutripal-beta/api-beta/image/Lontong%20Sayur.jpeg",
+        "food_img": "https://storage.googleapis.com/nutripall/foodsimg/KFC%20Fried%20Chicken%20Breast.jpg",
         "food_url": "https://www.fatsecret.com/calories-nutrition/generic/chicken-breast-ns-as-to-skin-eaten",
         "servings": {
             "serving": [
@@ -457,7 +457,7 @@
             "Meatballs",
             "Beef"
         ],
-        "food_img": "https://storage.googleapis.com/capstone-nutripal-beta/api-beta/image/Lontong%20Sayur.jpeg",
+        "food_img": "https://storage.googleapis.com/nutripall/foodsimg/Beef%20Meatballs.jpg",
         "food_url": "https://www.fatsecret.com/calories-nutrition/generic/meatballs-beef",
         "servings": {
             "serving": [
@@ -499,7 +499,7 @@
             "Soup",
             "Chicken"
         ],
-        "food_img": "https://storage.googleapis.com/capstone-nutripal-beta/api-beta/image/Lontong%20Sayur.jpeg",
+        "food_img": "https://storage.googleapis.com/nutripall/foodsimg/Chicken%20Soup.jpg",
         "food_url": "https://www.fatsecret.com/calories-nutrition/generic/chicken-soup",
         "servings": {
             "serving": [
@@ -539,7 +539,7 @@
             "Rice",
             "Stir Frying"
         ],
-        "food_img": "https://storage.googleapis.com/capstone-nutripal-beta/api-beta/image/Lontong%20Sayur.jpeg",
+        "food_img": "https://storage.googleapis.com/nutripall/foodsimg/Chicken%20Fried%20Rice.jpg",
         "food_url": "https://www.fatsecret.com/calories-nutrition/generic/rice-fried",
         "servings": {
             "serving": [
@@ -579,7 +579,7 @@
             "Chicken",
             "Rice"
         ],
-        "food_img": "https://storage.googleapis.com/capstone-nutripal-beta/api-beta/image/Lontong%20Sayur.jpeg",
+        "food_img": "https://storage.googleapis.com/nutripall/foodsimg/Chicken%20Fried%20Rice.jpg",
         "food_url": "https://www.fatsecret.com/calories-nutrition/generic/rice-fried-with-chicken",
         "servings": {
             "serving": [
@@ -621,7 +621,7 @@
             "Rendang",
             "Beef"
         ],
-        "food_img": "https://storage.googleapis.com/capstone-nutripal-beta/api-beta/image/Lontong%20Sayur.jpeg",
+        "food_img": "https://storage.googleapis.com/nutripall/foodsimg/Beef%20Fried%20Rice.jpg",
         "food_url": "https://www.fatsecret.com/calories-nutrition/generic/rice-cooked",
         "servings": {
             "serving": [
@@ -663,7 +663,7 @@
             "Rendang",
             "Beef"
         ],
-        "food_img": "https://storage.googleapis.com/capstone-nutripal-beta/api-beta/image/Lontong%20Sayur.jpeg",
+        "food_img": "https://storage.googleapis.com/nutripall/foodsimg/Beef%20Fried%20Rice.jpg",
         "food_url": "https://www.fatsecret.com/calories-nutrition/generic/rice-fried-with-beef",
         "servings": {
             "serving": [
@@ -747,7 +747,7 @@
             "Rendang",
             "Beef"
         ],
-        "food_img": "https://storage.googleapis.com/capstone-nutripal-beta/api-beta/image/Lontong%20Sayur.jpeg",
+        "food_img": "https://storage.googleapis.com/nutripall/foodsimg/Chinese%20Fried%20Rice.jpg",
         "food_url": "https://www.fatsecret.com/calories-nutrition/generic/rice-fried-chinese",
         "servings": {
             "serving": [
@@ -791,7 +791,7 @@
             "Rendang",
             "Beef"
         ],
-        "food_img": "https://storage.googleapis.com/capstone-nutripal-beta/api-beta/image/Lontong%20Sayur.jpeg",
+        "food_img": "https://storage.googleapis.com/nutripall/foodsimg/Fried%20Egg.jpg",
         "food_url": "https://www.fatsecret.com/calories-nutrition/usda/fried-egg",
         "servings": {
             "serving": [
@@ -834,7 +834,7 @@
             "Rendang",
             "Beef"
         ],
-        "food_img": "https://storage.googleapis.com/capstone-nutripal-beta/api-beta/image/Lontong%20Sayur.jpeg",
+        "food_img": "https://storage.googleapis.com/nutripall/foodsimg/Scrambled%20Egg.jpg",
         "food_url": "https://www.fatsecret.com/calories-nutrition/usda/scrambled-egg",
         "servings": {
             "serving": [
@@ -877,7 +877,7 @@
             "Rendang",
             "Beef"
         ],
-        "food_img": "https://storage.googleapis.com/capstone-nutripal-beta/api-beta/image/Lontong%20Sayur.jpeg",
+        "food_img": "https://storage.googleapis.com/nutripall/foodsimg/Boiled%20Egg.jpeg",
         "food_url": "https://www.fatsecret.com/calories-nutrition/generic/egg-whole-boiled",
         "servings": {
             "serving": [
@@ -919,7 +919,7 @@
             "Rendang",
             "Beef"
         ],
-        "food_img": "https://storage.googleapis.com/capstone-nutripal-beta/api-beta/image/Lontong%20Sayur.jpeg",
+        "food_img": "https://storage.googleapis.com/nutripall/foodsimg/Fried%20Battered%20Duck.jpg",
         "food_url": "https://www.fatsecret.com/calories-nutrition/generic/duck-battered-fried",
         "servings": {
             "serving": [
@@ -962,7 +962,7 @@
             "Rendang",
             "Beef"
         ],
-        "food_img": "https://storage.googleapis.com/capstone-nutripal-beta/api-beta/image/Lontong%20Sayur.jpeg",
+        "food_img": "https://storage.googleapis.com/nutripall/foodsimg/Samyang%20Hot%20Chicken%20Flavor%20Ramen.jpg",
         "food_url": "https://www.fatsecret.com/calories-nutrition/samyang/hot-chicken-flavor-ramen",
         "servings": {
             "serving": [
@@ -1004,7 +1004,7 @@
             "Rendang",
             "Beef"
         ],
-        "food_img": "https://storage.googleapis.com/capstone-nutripal-beta/api-beta/image/Lontong%20Sayur.jpeg",
+        "food_img": "https://storage.googleapis.com/nutripall/foodsimg/Samyang%20Jjajang%20Ramen.jpg",
         "food_url": "https://www.fatsecret.com/calories-nutrition/samyang/jjajang-ramen",
         "servings": {
             "serving": [
@@ -1045,7 +1045,7 @@
             "Rendang",
             "Beef"
         ],
-        "food_img": "https://storage.googleapis.com/capstone-nutripal-beta/api-beta/image/Lontong%20Sayur.jpeg",
+        "food_img": "https://storage.googleapis.com/nutripall/foodsimg/Chicken%20Dumplings.jpeg",
         "food_url": "https://www.fatsecret.com/calories-nutrition/generic/dumpling-steamed-filled-with-meat-poultry-or-seafood",
         "servings": {
             "serving": [
@@ -1088,7 +1088,7 @@
             "Rendang",
             "Beef"
         ],
-        "food_img": "https://storage.googleapis.com/capstone-nutripal-beta/api-beta/image/Lontong%20Sayur.jpeg",
+        "food_img": "https://storage.googleapis.com/nutripall/foodsimg/Chicken%20Dumplings.jpeg",
         "food_url": "https://www.fatsecret.com/calories-nutrition/wegmans/chicken-dumplings",
         "servings": {
             "serving": [
@@ -1119,7 +1119,7 @@
             "Rendang",
             "Beef"
         ],
-        "food_img": "https://storage.googleapis.com/capstone-nutripal-beta/api-beta/image/Lontong%20Sayur.jpeg",
+        "food_img": "https://storage.googleapis.com/nutripall/foodsimg/Fried%20Goat.jpg",
         "food_url": "https://www.fatsecret.com/calories-nutrition/generic/goat-fried",
         "servings": {
             "serving": [
@@ -1161,7 +1161,7 @@
             "Rendang",
             "Beef"
         ],
-        "food_img": "https://storage.googleapis.com/capstone-nutripal-beta/api-beta/image/Lontong%20Sayur.jpeg",
+        "food_img": "https://storage.googleapis.com/nutripall/foodsimg/Miso%20Soup.jpg",
         "food_url": "https://www.fatsecret.com/calories-nutrition/generic/soybean-soup-miso-broth",
         "servings": {
             "serving": [
@@ -1203,7 +1203,7 @@
             "Rendang",
             "Beef"
         ],
-        "food_img": "https://storage.googleapis.com/capstone-nutripal-beta/api-beta/image/Lontong%20Sayur.jpeg",
+        "food_img": "https://storage.googleapis.com/nutripall/foodsimg/Rice%20Soup.jpg",
         "food_url": "https://www.fatsecret.com/calories-nutrition/generic/rice-soup",
         "servings": {
             "serving": [
@@ -1245,7 +1245,7 @@
             "Rendang",
             "Beef"
         ],
-        "food_img": "https://storage.googleapis.com/capstone-nutripal-beta/api-beta/image/Lontong%20Sayur.jpeg",
+        "food_img": "https://storage.googleapis.com/nutripall/foodsimg/Mixed%20Salad%20Greens.jpg",
         "food_url": "https://www.fatsecret.com/calories-nutrition/generic/mixed-salad-greens-raw",
         "tags": "rujak",
         "servings": {
@@ -1288,7 +1288,7 @@
             "Rendang",
             "Beef"
         ],
-        "food_img": "https://storage.googleapis.com/capstone-nutripal-beta/api-beta/image/Lontong%20Sayur.jpeg",
+        "food_img": "https://storage.googleapis.com/nutripall/foodsimg/Fried%20Tofu.jpg",
         "food_url": "https://www.fatsecret.com/calories-nutrition/usda/fried-tofu",
         "servings": {
             "serving": [
